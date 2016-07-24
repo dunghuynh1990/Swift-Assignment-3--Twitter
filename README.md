@@ -1,4 +1,4 @@
-# Swift-Assignment-3--Twitter
+
 # Project Name: *Swift-Assignment-3:Twitter*
 
 Time spent: **18** hours spent in total
