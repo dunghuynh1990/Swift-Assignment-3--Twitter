@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+https://github.com/dunghuynh1990/Swift-Assignment-3--Twitter/blob/master/Jul-24-2016%2023-57-10.gif
 
 ## Setup
 Pods aren't checked in to source control, so please run `pod install` then open `Swift-Assignment-3.xcworkspace` and run in Xcode. Tested Xcode version: 7.3.1
